@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Graphics+Developer;C%2B%2B+Expert;Vulkan+Enthusiast;Web+Developer&center=true&size=25&color=58a6ff&background=0d1117&vCenter=true&width=500&height=70&duration=3000&pause=1000" alt="Developer traits">
 </div>
 
-<p align="center">
-  <a href="https://github.com/rvrl"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a href="https://github.com/rvrl"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
-  <a href="https://github.com/rvrl"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
-  <a href="https://github.com/rvrl"><img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=rvrl&style=for-the-badge&color=blue" alt="Profile views counter"/>
-</p>
-
 ## 👋 About Me
 
 <div align="center">
@@ -66,18 +58,11 @@
   
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvrl&theme=tokyonight" />
-</div>
-
 ## 🔥 Featured Projects
 
 <div align="center">
   <a href="https://github.com/raphvrl/vk-minecraft-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvrl&repo=vk-minecraft-clone&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/raphvrl/vulkan-test">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rvrl&repo=vulkan-test&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raphvrl&repo=vk-minecraft-clone&theme=tokyonight" />
   </a>
 </div>
 
