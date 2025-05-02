@@ -66,28 +66,8 @@
   
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rvrl&show_icons=true&theme=tokyonight" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvrl&layout=compact&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvrl&theme=tokyonight" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rvrl&theme=tokyonight&no-frame=true&row=1" />
 </div>
 
 ## 🔥 Featured Projects
