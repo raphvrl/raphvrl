@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RVRL&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Graphics+Developer;C%2B%2B+Expert;Vulkan+Enthusiast;Web+Developer&center=true&size=25&color=58a6ff&background=0d1117&vCenter=true&width=500&height=70&duration=3000&pause=1000" alt="Developer traits">
-</div>
-
 ## 👋 About Me
 
 <div align="center">
@@ -68,14 +64,6 @@
   </a>
 </div>
 
-## 📫 Contact
-
-<div align="center">
-  <a href="mailto:rverrouil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
@@ -84,4 +72,5 @@
 
 <div align="center">
   ⭐️ <i>Feel free to explore my repositories and star my projects!</i> ⭐️
+
 </div>
