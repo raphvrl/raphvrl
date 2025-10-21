@@ -38,17 +38,6 @@
   </table>
 </div>
 
-## Featured Projects
-
-<div align="center">
-  <a href="https://github.com/raphvrl/vk-minecraft-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raphvrl&repo=vk-minecraft-clone&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/raphvrl/rayst">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raphvrl&repo=rayst&theme=tokyonight" />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
